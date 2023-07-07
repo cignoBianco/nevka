@@ -1,3 +1,3 @@
 document.addEventListener('click', () => {
-    document.querySelector('body').append('<span>...честно...</span>')
+    document.querySelector('body').append(<p>честно</p>)
 });
