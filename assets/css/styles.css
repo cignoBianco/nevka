@@ -59,3 +59,35 @@ img.menu_social_img {
 img.image-40 {
     width: 350px;
 }
+
+.background-video-4 {
+    width: 100vw;
+    max-width: 100vw;
+    background-image: url('../images/photos/_DSC5834.jpg');
+    background-size: cover;
+    background-position-y: center;
+}
+
+.p_big, .text_point {
+    color:#1c3f2c;
+}
+
+.member_org ul {
+    list-style: none;
+    text-align: left;
+                            margin-top: 10px;
+}
+
+.member_org ul li {
+     text-decoration: none;
+    
+}
+
+#contact {
+    padding-bottom: 0px;
+}
+
+.white {
+    color: lightgrey;
+}
+
