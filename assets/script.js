@@ -1,3 +1,5 @@
 document.addEventListener('click', () => {
-    document.querySelector('body').append(<p>честно</p>)
+    const p = document.createElement('p');
+    p.innerText = 'честно';
+    document.querySelector('body').append(p);
 });
