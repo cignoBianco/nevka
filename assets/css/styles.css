@@ -28,6 +28,7 @@ img.menu_social_img {
     background-image: url('../images/photos/_DSC6551.jpg');
     background-size: cover;
     background-position-y: center;
+    background-position-x: center;
 }
 
 .brand-2 {
