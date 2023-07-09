@@ -92,3 +92,18 @@ img.image-40 {
     color: lightgrey;
 }
 
+body.body.contacts_body {
+    padding-top: 76px;
+    width: 100vw;
+    max-width: 100vw;
+    background-image: url('../images/photos/_DSC5758.jpg');
+    background-size: cover;
+    background-position-y: center;
+}
+
+
+
+
+
+
+
